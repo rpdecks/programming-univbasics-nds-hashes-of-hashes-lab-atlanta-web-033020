@@ -43,5 +43,5 @@ def naming_system
   # HoH all the way to Species!
 
 h = Hash.new
-h[:Kingdom][:Phylum][:Class][:Order][:Family][:Genus][:Species] = name
+h[:Kingdom][:Phylum][:Class][:Order][:Family][:Genus][:Species] = "name"
 end
