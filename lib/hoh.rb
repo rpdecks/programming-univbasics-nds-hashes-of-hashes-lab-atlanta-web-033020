@@ -44,7 +44,7 @@ def naming_system
 
 h = {
   Kingdom: {
-    name:
+    name:,
     sub_category: {
       Phylum: {
         name:,
