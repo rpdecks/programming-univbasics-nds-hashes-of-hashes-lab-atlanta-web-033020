@@ -44,22 +44,22 @@ def naming_system
 
 h = {
   Kingdom: {
-    name:, 
+    name:
     sub_category: {
       Phylum: {
-        name:, 
+        name:
         sub_category: {
           Class: {
-            name:, 
+            name:
             sub_category: {
             Order: {
-              name:,
+              name:
               sub_category: {
                   Family: {
-                    name:,
+                    name:
                     sub_category: {
                       Genus: {
-                        name:, 
+                        name:
                         sub_category: {
                           Species: nil
                         }
