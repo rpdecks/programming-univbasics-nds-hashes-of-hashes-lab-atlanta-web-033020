@@ -49,17 +49,24 @@ h = {
       Phylum: {
         name:, 
         sub_category: {
-          Class:
+          Class: {
             name:, 
             sub_category: {
-      }
-    }
-    Phylum: {
-      Class: {
-        Order: {
-          Family: {
-            Genus: {
-              Species: nil
+            Order: {
+              name:,
+              sub_category: {
+                  Family: {
+                    name:,
+                    sub_category: {
+                      Genus: {
+                        name:, 
+                        sub_category: {
+                          Species: nil
+                        }
+                      }
+                    }
+                  }
+              }
             }
           }
         }
