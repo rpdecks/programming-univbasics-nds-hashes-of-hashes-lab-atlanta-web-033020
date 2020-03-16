@@ -44,6 +44,10 @@ def naming_system
 
 h = {
   Kingdom: {
+    :name, 
+    :sub_category {
+      :Phylum
+    }
     Phylum: {
       Class: {
         Order: {
